@@ -10,3 +10,8 @@
 //                                                                              //
 //  **************************************************************************  //
 
+fun main() {
+    val nDivisor:Int = readln().trim().toInt()
+    val divisiors:List<Int> = readln().trim().split(" ").map({it.toInt()})
+    println(divisiors.min() * divisiors.max())
+}

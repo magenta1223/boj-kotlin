@@ -1,0 +1,15 @@
+{
+    "name": "터렛",
+    "title": "1002번： 터렛",
+    "problemNumber": "1002",
+    "date": "2025-01-15 02:08:59",
+    "tier": {
+        "name": "Silver III",
+        "abb": "S",
+        "nameColor": "#496580",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/8.svg",
+        "level": 8
+    },
+    "solved": true
+}

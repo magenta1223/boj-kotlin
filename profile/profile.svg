@@ -17,19 +17,19 @@
     </defs>
     <rect width="2700" height="900" fill="url(#ffflux-gradient)" filter="url(#ffflux-filter)" rx="60" ry="60"/>
     <text x="60" y="150" style="font-size: 120px; color: black; font-family: &quot;Noto Sans&quot;, sans-serif; font-weight: bold;">magenta1223</text>
-    <text x="899.53125" y="150" style="font-size: 60px; color: black; font-family: &quot;Noto Sans&quot;, sans-serif; font-weight: bold;">Solved: 663</text>
+    <text x="899.53125" y="150" style="font-size: 60px; color: black; font-family: &quot;Noto Sans&quot;, sans-serif; font-weight: bold;">Solved: 664</text>
     <text x="1290.359375" y="150" style="font-size: 60px; color: black; font-family: &quot;Noto Sans&quot;, sans-serif; font-weight: bold;">Rating: 2024</text>
     <text x="1711.65625" y="150" style="font-size: 60px; color: black; font-family: &quot;Noto Sans&quot;, sans-serif; font-weight: bold;">Class: 6</text>
     <g transform="translate(360,540)">
         <path d="M0,-255L0,-240Z" fill="#9D4900"/>
-        <path d="M0,-255A255,255,0,1,1,0,255A255,255,0,1,1,0,-255M0,-240A240,240,0,1,0,0,240A240,240,0,1,0,0,-240Z" fill="#A54F00"/>
-        <path d="M0,-255L0,-240Z" fill="#AD5600"/>
-        <path d="M0,-255L0,-240Z" fill="#B55D0A"/>
-        <path d="M0,-255L0,-240Z" fill="#C67739"/>
-        <path d="M0,-255L0,-240Z" fill="#38546E"/>
-        <path d="M0,-255L0,-240Z" fill="#3D5A74"/>
-        <path d="M0,-255L0,-240Z" fill="#435F7A"/>
-        <path d="M0,-255L0,-240Z" fill="#496580"/>
+        <path d="M1.528,-247.335A7.5,7.5,0,0,1,9.302,-254.83A255,255,0,0,1,9.302,254.83A7.5,7.5,0,0,1,1.528,247.335L1.528,247.335A7.5,7.5,0,0,1,8.754,239.84A240,240,0,0,0,8.754,-239.84A7.5,7.5,0,0,1,1.528,-247.335Z" fill="#A54F00"/>
+        <path d="M0,255L0,240Z" fill="#AD5600"/>
+        <path d="M0,255L0,240Z" fill="#B55D0A"/>
+        <path d="M0,255L0,240Z" fill="#C67739"/>
+        <path d="M-1.528,247.335A7.5,7.5,0,0,1,-9.302,254.83A255,255,0,0,1,-254.83,9.302A7.5,7.5,0,0,1,-247.335,1.528L-247.335,1.528A7.5,7.5,0,0,1,-239.84,8.754A240,240,0,0,0,-8.754,239.84A7.5,7.5,0,0,1,-1.528,247.335Z" fill="#38546E"/>
+        <path d="M-255,0L-240,0Z" fill="#3D5A74"/>
+        <path d="M-255,0L-240,0Z" fill="#435F7A"/>
+        <path d="M-247.335,-1.528A7.5,7.5,0,0,1,-254.83,-9.302A255,255,0,0,1,-9.302,-254.83A7.5,7.5,0,0,1,-1.528,-247.335L-1.528,-247.335A7.5,7.5,0,0,1,-8.754,-239.84A240,240,0,0,0,-239.84,-8.754A7.5,7.5,0,0,1,-247.335,-1.528Z" fill="#496580"/>
         <path d="M0,-255L0,-240Z" fill="#4E6A86"/>
         <path d="M0,-255L0,-240Z" fill="#D28500"/>
         <path d="M0,-255L0,-240Z" fill="#DF8F00"/>
@@ -51,8 +51,8 @@
         <path d="M0,-255L0,-240Z" fill="#F5005A"/>
         <path d="M0,-255L0,-240Z" fill="#FF0062"/>
         <path d="M0,-255L0,-240Z" fill="#CE3D38"/>
-        <path d="M0,-300A300,300,0,1,1,0,300A300,300,0,1,1,0,-300M0,-270A270,270,0,1,0,0,270A270,270,0,1,0,0,-270Z" fill="#AD5600"/>
-        <path d="M0,-300L0,-270Z" fill="#435F7A"/>
+        <path d="M1.761,-284.507A15,15,0,0,1,17.643,-299.481A300,300,0,0,1,17.643,299.481A15,15,0,0,1,1.761,284.507L1.761,284.507A15,15,0,0,1,15.879,269.533A270,270,0,0,0,15.879,-269.533A15,15,0,0,1,1.761,-284.507Z" fill="#AD5600"/>
+        <path d="M-1.761,284.507A15,15,0,0,1,-17.643,299.481A300,300,0,0,1,-17.643,-299.481A15,15,0,0,1,-1.761,-284.507L-1.761,-284.507A15,15,0,0,1,-15.879,-269.533A270,270,0,0,0,-15.879,269.533A15,15,0,0,1,-1.761,284.507Z" fill="#435F7A"/>
         <path d="M0,-300L0,-270Z" fill="#EC9A00"/>
         <path d="M0,-300L0,-270Z" fill="#27E2A4"/>
         <path d="M0,-300L0,-270Z" fill="#00B4FC"/>
@@ -267,7 +267,7 @@
         <rect rx="15" ry="15" width="45" height="45" fill="#FFFFFF" x="1843.5" y="34.5"/>
         <rect rx="15" ry="15" width="45" height="45" fill="#FFFFFF" x="1843.5" y="91.5"/>
         <rect rx="15" ry="15" width="45" height="45" fill="#A1E4AC" x="1843.5" y="148.5"/>
-        <rect rx="15" ry="15" width="45" height="45" fill="#FFFFFF" x="1843.5" y="205.5"/>
+        <rect rx="15" ry="15" width="45" height="45" fill="#A1E4AC" x="1843.5" y="205.5"/>
         <rect rx="15" ry="15" width="45" height="45" fill="#FFFFFF" x="1843.5" y="262.5"/>
         <rect rx="15" ry="15" width="45" height="45" fill="#FFFFFF" x="1843.5" y="319.5"/>
     </g>
